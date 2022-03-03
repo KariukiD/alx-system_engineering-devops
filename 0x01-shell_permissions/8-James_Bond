@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 007
+chmod o=rwx,ug= 8-James_Bond
