@@ -1,1 +1,2 @@
-groups [username]
+#!/bin/bash
+groups
