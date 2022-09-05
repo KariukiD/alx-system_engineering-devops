@@ -1,2 +1,2 @@
 #!/bin/bash
-rev -h 21-reverse
+rev -V 21-reverse
